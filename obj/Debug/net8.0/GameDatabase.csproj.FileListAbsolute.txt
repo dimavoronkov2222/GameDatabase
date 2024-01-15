@@ -1,0 +1,15 @@
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.csproj.AssemblyReference.cache
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.AssemblyInfoInputs.cache
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.AssemblyInfo.cs
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.csproj.CoreCompileInputs.cache
+C:\Users\dimav\source\repos\Task-2\bin\Debug\net8.0\GameDatabase.deps.json
+C:\Users\dimav\source\repos\Task-2\bin\Debug\net8.0\GameDatabase.dll
+C:\Users\dimav\source\repos\Task-2\bin\Debug\net8.0\GameDatabase.pdb
+C:\Users\dimav\source\repos\Task-2\bin\Debug\net8.0\GameLibrary.dll
+C:\Users\dimav\source\repos\Task-2\bin\Debug\net8.0\GameLibrary.pdb
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.csproj.CopyComplete
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.dll
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\refint\GameDatabase.dll
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\GameDatabase.pdb
+C:\Users\dimav\source\repos\Task-2\obj\Debug\net8.0\ref\GameDatabase.dll
